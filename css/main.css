@@ -94,8 +94,9 @@ ul.posts li {
 .code {
     
     text-align: center;
-	margin: auto;
-    padding: 42px;
+    margin: auto;
+    padding-top: 42px;
+    padding-bottom: 42px;
     font-family: monospace;
     font-size: 1.2em;
     color: #FFFFFF;
