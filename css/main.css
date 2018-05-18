@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: black;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: monospace;
 }
 .block {
     margin: auto;
@@ -49,7 +49,7 @@ h1 {
 margin-left: 10%;
 margin-right: 10%;
     text-align: center;
-    font-size: 2.5em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #FF7300;
 }
@@ -72,7 +72,7 @@ h3 {
 }
 
 p {
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.4em;
     color: #999;
 }
@@ -97,7 +97,7 @@ ul.posts li {
 	margin: auto;
     padding: 42px;
     font-family: monospace;
-    font-size: 1.8em;
+    font-size: 1.2em;
     color: #FFFFFF;
     display: block;
     /*border: dashed 1px #8BA9FF;*/
